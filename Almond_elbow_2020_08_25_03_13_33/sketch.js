@@ -5,6 +5,8 @@ var PLAY = 1;
 var END = 0;
 var gameState = PLAY; 
 
+
+//creating the variables
 var banana_image, bananasGroup, banana;
 var stone_image, stonesGroup, stone;
 
